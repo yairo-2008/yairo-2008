@@ -8,7 +8,7 @@ I am a 17-year-old developer and security researcher in the 12th grade at **Herz
 ### 🛠️ Technical Stack
 
 - **Languages:** Python, x86 Assembly, C#, SQL, Bash.
-- **Cyber & Research:** Reverse Engineering (Static Analysis – IDA), Binary Exploitation, Cryptography Concepts, Memory Corruption.
+- **Cyber & Research:** Cryptography Concepts, Memory Corruption.
 - **Networking:** Socket Programming, TCP/IP, Protocol Analysis (Wireshark), Network Routing.
 - **Operating Systems:** Unix/Linux (Internals & CLI), Windows.
 - **Core:** Advanced Data Structures (Trees, Stacks, Nodes) & Memory Management.
