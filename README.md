@@ -1,7 +1,7 @@
 # Hi, I'm Omer Yair 👋
 
 ### 🚀 Software Engineering & Cyber Security Student
-I am a 17-year-old developer and security researcher in the 12th grade at **Herzog High School**. I have a deep passion for understanding the internal mechanics of operating systems, low-level development, and network protocols.
+I am a 18-year-old developer and security researcher in the 12th grade at **Herzog High School**. I have a deep passion for understanding the internal mechanics of operating systems, low-level development, and network protocols.
 
 ---
 
